@@ -2,7 +2,7 @@ def add(x, y):
     return x + y
 
 
-badvar=
+#badvar=
 
 
 xvar = 1

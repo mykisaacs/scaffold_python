@@ -2,6 +2,9 @@ def add(x, y):
     return x + y
 
 
+badvar=
+
+
 xvar = 1
 yvar = 2
 result = add(xvar, yvar)
